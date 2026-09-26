@@ -6,10 +6,15 @@ API REST para gerenciamento de tarefas, desenvolvida em Python.
 
 - Python
 
+## Bibliotecas
+
+- Requests
+
 ## Ferramentas
 
-- pip
-- git
+- Pip
+- Git
+- Pytest
 
 ## Funcionalidades
 
